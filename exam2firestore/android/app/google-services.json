@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "435356226897",
+    "project_id": "formatiffinalfirestore",
+    "storage_bucket": "formatiffinalfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435356226897:android:0c7a65f186f92e7cbdaf70",
+        "android_client_info": {
+          "package_name": "cem.formatif.firebase_start"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOFQlOMtSrWXMpqIHV9iB-Nh8_6dmJSpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435356226897:android:b94eb04756d85410bdaf70",
+        "android_client_info": {
+          "package_name": "com.example.exam2firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOFQlOMtSrWXMpqIHV9iB-Nh8_6dmJSpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435356226897:android:281d3adcd8d4e8a9bdaf70",
+        "android_client_info": {
+          "package_name": "com.formatiffinal.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOFQlOMtSrWXMpqIHV9iB-Nh8_6dmJSpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
